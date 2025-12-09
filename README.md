@@ -35,12 +35,12 @@ The site is fully responsive, modern, and optimized for both desktop and mobile 
 * Job Application Management System – Full-stack dashboard for managing job listings with CRUD operations
 
 🧩 Skills Covered
-Programming: Python, JavaScript (ES6+), Java, SQL
-
-Frontend: React.js, HTML5, CSS3, Bootstrap, Tailwind CSS
-
-Backend: Flask, Django, RESTful APIs
-
-Databases: MySQL, SQLite, SQLAlchemy
-
-Tools: Git, GitHub, VS Code, Vite
+   * Programming: Python, JavaScript (ES6+), Java, SQL
+    
+   * Frontend: React.js, HTML5, CSS3, Bootstrap, Tailwind CSS
+    
+   * Backend: Flask, Django, RESTful APIs
+    
+   * Databases: MySQL, SQLite, SQLAlchemy
+    
+   * Tools: Git, GitHub, VS Code, Vite
